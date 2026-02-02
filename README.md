@@ -1,5 +1,37 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
+🌍 **Water Quality Analysis – Power BI Dashboard**
+
+📌 **Overview**  
+This project analyzes global water quality data and provides actionable insights through an interactive Power BI dashboard.  
+The objective is to assess water safety, contamination risks, and access to drinking water to support informed decision-making for stakeholders.
+
+---
+
+📊 **Key Features**
+- 📈 Interactive Power BI dashboard showcasing key water quality indicators  
+- 🔍 Data cleaning and preprocessing for improved data reliability  
+- 📄 Reports and mockups to document design choices and user experience  
+
+---
+
+📂 **Repository Structure**
+```text
+Water_Quality_Analysis/
+├── README.md
+├── Data/
+│   ├── raw_data.csv
+│   └── data_dictionary.xlsx
+├── Reports/
+│   ├── Blueprint.pdf
+│   └── Mockup.pdf
+├── Dashboard/
+│   ├── water_quality_dashboard.pbix
+│   └── dashboard_screenshot.png
+
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
 
 🌍 Water Quality Analysis – Power BI Dashboard
 📌 Overview
