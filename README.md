@@ -1,3 +1,6 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
+
 🌍 Water Quality Analysis – Power BI Dashboard
 📌 Overview
 This project aims to analyze water quality data and provide insights through a Power BI dashboard. The analysis includes key indicators of water safety and contamination levels, helping stakeholders make informed decisions.
