@@ -32,31 +32,49 @@ Water_Quality_Analysis/
 
 
 📑 Dataset
-The dataset consists of 27000+ rows with the following features:
 
-Political stability 
-Population
-RegionCountry
-MortalityRateAttributedToWater
-BasicAndSafelyManagedDrinkingWaterServices
-Year
+The dataset contains 27,000+ rows with the following variables:
 
-Source Type – Natural or treated water source
-Water Quality – Labeled as safe/basic
+- Political stability
+
+- Population
+
+- Region / Country
+
+- Mortality rate attributed to water
+
+- Access to basic and safely managed drinking water services
+
+- Year
+
+- Source type (natural or treated)
+
+- Water quality label (safe / basic)
+
 
 🛠️ Tools & Technologies
-Power BI – Data visualization & dashboard creation
-Python (Pandas, Matplotlib, Seaborn) – Data processing & analysis
-Excel – Data structuring & initial cleaning
+
+- Power BI — Data visualization and dashboard development
+
+- Python (Pandas, Matplotlib, Seaborn) — Data processing and exploratory analysis
+
+- Excel — Data structuring and initial cleaning
+
 
 🚀 How to Use
-Download the dataset and Power BI file from the /Dashboard/ folder.
-Open the .pbix file in Power BI Desktop.
-Explore the interactive dashboard to analyze trends and patterns.
+
+1. Download the dataset and Power BI file from the Dashboard/ folder
+
+2. Open the .pbix file in Power BI Desktop
+
+3. Explore the interactive dashboard to analyze trends and patterns
+
 
 📌 Future Improvements
-🏭 Include industrial pollution metrics
-🌍 Expand dataset with geographical data
-📊 Add predictive modeling for contamination risk
-📩 Feel free to contribute or reach out for any suggestions! 😊
+
+🏭 Integrate industrial pollution indicators
+
+🌍 Enrich the dataset with additional geographical variables
+
+📊 Add predictive modeling to assess contamination risk
 
